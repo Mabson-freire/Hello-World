@@ -2,7 +2,11 @@
 ### Meu repositório inicial.
 ---
 
-***Olá***
+**Olá**
+
+* Meu nome é Mabson
+* Tenho 25 anos
+* Moro em fortaleza, no ceará
 
 Este é o meu primeiro repositório do github, nele estará algumas das minhas primeiras
 interações com as linguagens de programação e marcação em que estarei estudando.
