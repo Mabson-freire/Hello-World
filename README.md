@@ -1,5 +1,5 @@
-# Hello-World
-### Meu repositório inicial.
+# *Hello-World!*
+---
 # 💫 About Me:
 🔭 Atualmente aprendendo e aperfeiçoando meus códigos.<br>⚡ Estou disposto a contribuir com a comunidade.<br>🤝 Preciso de ajuda para me desenvolver e conseguir a sonhada vaga como dev. <br>🌱 No momento estudando Back end em python, mysql e utilizando poo.<br>🌱 Também iniciando no front end com js, html e css.<br>💬 Pergunte-me sobre meus objetivos e metas, e, terá um amigo para conversar por algumas horas<br>
 
